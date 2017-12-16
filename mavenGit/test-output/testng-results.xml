@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16934" started-at="2017-12-16T11:15:40Z" finished-at="2017-12-16T11:15:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16934" started-at="2017-12-16T11:15:40Z" finished-at="2017-12-16T11:15:57Z">
+      <class name="mavenGit.demo">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenGit.demo@6d00a15d]" name="beforeTest" is-config="true" duration-ms="13689" started-at="2017-12-16T16:45:40Z" finished-at="2017-12-16T16:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:mavenGit.demo@6d00a15d]" name="f" duration-ms="3100" started-at="2017-12-16T16:45:54Z" finished-at="2017-12-16T16:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenGit.demo@6d00a15d]" name="afterTest" is-config="true" duration-ms="36" started-at="2017-12-16T16:45:57Z" finished-at="2017-12-16T16:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavenGit.demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
