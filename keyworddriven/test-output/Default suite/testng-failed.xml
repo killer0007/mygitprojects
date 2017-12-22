@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="testcase.Test1">
+      <class name="testCase.LoginApp">
         <methods>
           <include name="start"/>
-          <include name="ts1"/>
+          <include name="teardown"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- testcase.Test1 -->
+      </class> <!-- testCase.LoginApp -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -45,7 +45,7 @@ public class Test1 {
 				op.performaction(exceldata.get(i).get(1), exceldata.get(i).get(2), exceldata.get(i).get(3),
 						exceldata.get(i).get(4));
 				Thread.sleep(2000);
-				continue;
+				//continue;
 			}
 		}
 		System.out.println(driver.getTitle());
