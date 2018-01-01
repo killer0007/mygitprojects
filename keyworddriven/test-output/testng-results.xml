@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="23658" started-at="2017-12-22T14:42:19Z" finished-at="2017-12-22T14:42:43Z">
+  <suite name="Default suite" duration-ms="382" started-at="2017-12-22T16:24:27Z" finished-at="2017-12-22T16:24:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="23658" started-at="2017-12-22T14:42:19Z" finished-at="2017-12-22T14:42:43Z">
-      <class name="testCase.LoginApp">
-        <test-method status="PASS" signature="start()[pri:0, instance:testCase.LoginApp@29774679]" name="start" is-config="true" duration-ms="9890" started-at="2017-12-22T20:12:20Z" finished-at="2017-12-22T20:12:29Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- start -->
-        <test-method status="PASS" signature="login()[pri:0, instance:testCase.LoginApp@29774679]" name="login" duration-ms="13720" started-at="2017-12-22T20:12:29Z" finished-at="2017-12-22T20:12:43Z">
+    <test name="Default test" duration-ms="382" started-at="2017-12-22T16:24:27Z" finished-at="2017-12-22T16:24:28Z">
+      <class name="testCase.tempclass">
+        <test-method status="PASS" signature="login()[pri:0, instance:testCase.tempclass@cc285f4]" name="login" duration-ms="342" started-at="2017-12-22T21:54:27Z" finished-at="2017-12-22T21:54:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-      </class> <!-- testCase.LoginApp -->
+      </class> <!-- testCase.tempclass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
