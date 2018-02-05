@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="506848" started-at="2017-11-09T17:46:10Z" finished-at="2017-11-09T17:54:37Z">
+    <groups>
+    </groups>
+    <test name="vyasakaWebsite.VwebSite" duration-ms="506848" started-at="2017-11-09T17:46:10Z" finished-at="2017-11-09T17:54:37Z">
+      <class name="vyasakaWebsite.VwebSite">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="11734" started-at="2017-11-09T17:46:10Z" finished-at="2017-11-09T17:46:21Z">
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)" name="f" duration-ms="432268" started-at="2017-11-09T17:46:22Z" finished-at="2017-11-09T17:53:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.labcentral.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.labcentral.in/portal]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)" name="f" duration-ms="12772" started-at="2017-11-09T17:53:34Z" finished-at="2017-11-09T17:53:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.cliniccentral.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.cliniccentral.in/portal]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)" name="f" duration-ms="10981" started-at="2017-11-09T17:53:47Z" finished-at="2017-11-09T17:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.doctorcentral.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.doctorcentral.in/portal]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)" name="f" duration-ms="23853" started-at="2017-11-09T17:53:58Z" finished-at="2017-11-09T17:54:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.sevacentral.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.sevacentral.in/portal]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)" name="f" duration-ms="13251" started-at="2017-11-09T17:54:22Z" finished-at="2017-11-09T17:54:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.educationcentral.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.educationcentral.in/portal]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="1581" started-at="2017-11-09T17:54:35Z" finished-at="2017-11-09T17:54:37Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
