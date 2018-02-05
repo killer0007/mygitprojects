@@ -10,7 +10,7 @@ public class temp {
 	String name = "vj";
 		switch(name) {
 	case "vj":
-		System.out.println("rewrwvi");
+		System.out.println("rewrewwvi");
 	}
 	}
 }
